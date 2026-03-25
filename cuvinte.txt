@@ -1,0 +1,13 @@
+# Cuvinte de testat (valabile pentru toate cele 3 automate)
+lambda
+a
+b
+ab
+ba
+aab
+abb
+bba
+abab
+aabb
+aba
+bab

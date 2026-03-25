@@ -1,0 +1,11 @@
+# DFA care accepta cuvinte peste {a,b} ce se termina in 'b'
+type DFA
+states q0 q1
+alphabet a b
+start q0
+final q1
+transitions
+q0 a q0
+q0 b q1
+q1 a q0
+q1 b q1
